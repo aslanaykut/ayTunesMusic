@@ -28,7 +28,7 @@ Would you like to give your loved ones an unusual gift?
 You are on that exact page.
 Create a special list for your loved one now and give him/her a gift according to the subscription conditions you specify.
 
-<h1>Used Technologies</h1>
+<h1>Technologies</h1>
 
 -HTML
 -HTML5
